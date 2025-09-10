@@ -11,8 +11,8 @@ multi_agent_chat/
 ├─ docker-compose.yml
 ├─ README.md
 └─ outputs/
-   ├─ simple_query.txt
-   ├─ complex_query.txt
-   ├─ memory_test.txt
-   ├─ multi_step.txt
-   └─ collaborative.txt
+    ├─ simple_query.txt
+    ├─ complex_query.txt
+    ├─ memory_test.txt
+    ├─ multi_step.txt
+    └─ collaborative.txt
