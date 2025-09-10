@@ -1,0 +1,8 @@
+version: "3.8"
+services:
+  multiagent:
+    build: .
+    container_name: multiagent
+    volumes:
+      - ./:/app
+    command: python tests.py
